@@ -1,2 +1,3 @@
 This is a vignette.
 Assign Nova to the task of writing this vignette.
+This is a qmd, so we need a header and we can include R code with output in the vignette.
